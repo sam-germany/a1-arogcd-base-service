@@ -8,7 +8,7 @@ metadata:
 spec:
   source:
     path: apps
-    repoURL: https://github.com/sunnykeila/a2-argocd-base-service.git
+    repoURL: https://github.com/sunnykeila/a3-argocd-base-service.git
     targetRevision: master
 
   project: default
